@@ -60,6 +60,7 @@ Dense Layer
 └── Output Level 2
 
 ------------ Technologies -------------
+
 Python
 TensorFlow
 Keras
